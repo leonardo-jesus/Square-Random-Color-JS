@@ -32,7 +32,7 @@
 
 ## 🚀 Technologies
 
-This project was developed with the following technology:
+This project was developed with the following technologies:
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
