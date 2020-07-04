@@ -1,5 +1,5 @@
 <p align="center">
-	<h1 align="center">Square Random Color :white_square:</h1>
+	<h1 align="center">Square Random Color :black_square_button:</h1>
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 ## :scroll: :arrow_right: :computer: Input
 
 <h1 align="center">
-    <img alt="input" src="./input.png" width="50%">
+    <img alt="input" src="./input.png" width="100%">
 </h1>
 
 ## :heavy_check_mark: :computer: :arrow_right: Output
 
 <h1 align="center">
-    <img alt="Output" src="./output.gif" width="50%">
+    <img alt="Output" src="./output.gif" width="100%">
 </h1>
 
 ## 🚀 Technologies
