@@ -21,13 +21,13 @@
 ## :scroll: :arrow_right: :computer: Input
 
 <h1 align="center">
-    <img alt="input" src="./input.png" width="100%">
+    <img alt="input" src="./input.png">
 </h1>
 
 ## :heavy_check_mark: :computer: :arrow_right: Output
 
 <h1 align="center">
-    <img alt="Output" src="./output.gif" width="100%">
+    <img alt="Output" src="./output.gif">
 </h1>
 
 ## 🚀 Technologies
